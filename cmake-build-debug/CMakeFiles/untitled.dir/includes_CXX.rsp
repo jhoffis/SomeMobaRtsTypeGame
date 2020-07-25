@@ -1,0 +1,1 @@
+-IC:/Users/jhoffis/CLionProjects/RacingmaybeCpp/Libraries/glm -IC:/Users/jhoffis/CLionProjects/RacingmaybeCpp/Libraries/glfw-3.3.2.bin.WIN64/include -IC:/Users/jhoffis/CLionProjects/RacingmaybeCpp/Libraries/glm/glm/.. -isystem C:/VulkanSDK/1.2.141.2/Include 
