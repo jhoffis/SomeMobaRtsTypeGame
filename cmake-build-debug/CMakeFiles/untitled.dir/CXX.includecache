@@ -55,6 +55,8 @@ GLFW/glfw3.h
 -
 iostream
 -
+fstream
+-
 stdexcept
 -
 vector
