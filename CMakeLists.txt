@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 project(untitled)
 
-set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD 17)
 
 add_executable(untitled main.cpp)
 
@@ -14,6 +14,7 @@ target_link_libraries(${PROJECT_NAME} glm::glm)
 
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/Libraries/glm)
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/Libraries/glfw-3.3.2.bin.WIN64/include)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/Libraries/stb)
 
 #target_link_libraries(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/Libraries/glfw-3.3.2.bin.WIN64/lib-mingw-w64/libglfw3dll.a)
 target_link_libraries(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/Libraries/glfw-3.3.2.bin.WIN64/lib-mingw-w64/libglfw3.a)

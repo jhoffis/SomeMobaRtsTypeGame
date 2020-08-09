@@ -36,6 +36,7 @@
 				<Compiler>
 					<Add directory="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/Libraries/glm"/>
 					<Add directory="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/Libraries/glfw-3.3.2.bin.WIN64/include"/>
+					<Add directory="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/Libraries/stb"/>
 					<Add directory="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/Libraries/glm/glm/.."/>
 					<Add directory="C:/VulkanSDK/1.2.141.2/Include"/>
 					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.1.0/../../../../include/c++/10.1.0"/>
@@ -62,6 +63,7 @@
 				<Compiler>
 					<Add directory="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/Libraries/glm"/>
 					<Add directory="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/Libraries/glfw-3.3.2.bin.WIN64/include"/>
+					<Add directory="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/Libraries/stb"/>
 					<Add directory="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/Libraries/glm/glm/.."/>
 					<Add directory="C:/VulkanSDK/1.2.141.2/Include"/>
 					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.1.0/../../../../include/c++/10.1.0"/>

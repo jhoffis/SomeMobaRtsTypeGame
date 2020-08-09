@@ -12,6 +12,7 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../Libraries/glm"
   "../Libraries/glfw-3.3.2.bin.WIN64/include"
+  "../Libraries/stb"
   "../Libraries/glm/glm/.."
   "C:/VulkanSDK/1.2.141.2/Include"
   )
