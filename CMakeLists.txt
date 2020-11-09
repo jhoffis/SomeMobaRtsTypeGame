@@ -3,7 +3,7 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(untitled main.cpp)
+add_executable(untitled main.cpp scripts/Map.cpp scripts/Map.h scripts/engine/Window.cpp scripts/engine/Window.h scripts/engine/VulkanSetup.cpp)
 
 find_package(Vulkan REQUIRED)
 target_include_directories(${PROJECT_NAME} PUBLIC ${Vulkan_INCLUDE_DIRS})

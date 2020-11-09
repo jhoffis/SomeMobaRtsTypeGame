@@ -95,6 +95,21 @@
 		<Unit filename="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/main.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/scripts/Map.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/scripts/Map.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/scripts/engine/VulkanSetup.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/scripts/engine/Window.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/scripts/engine/Window.h">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

@@ -1,5 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/main.cpp.obj"
+  "CMakeFiles/untitled.dir/scripts/Map.cpp.obj"
+  "CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.obj"
+  "CMakeFiles/untitled.dir/scripts/engine/Window.cpp.obj"
   "libuntitled.dll.a"
   "untitled.exe"
   "untitled.exe.manifest"

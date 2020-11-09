@@ -70,21 +70,69 @@ CMakeFiles/untitled.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/main.cpp.s"
 	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\main.cpp -o CMakeFiles\untitled.dir\main.cpp.s
 
+CMakeFiles/untitled.dir/scripts/Map.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/scripts/Map.cpp.obj: CMakeFiles/untitled.dir/includes_CXX.rsp
+CMakeFiles/untitled.dir/scripts/Map.cpp.obj: ../scripts/Map.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/scripts/Map.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\scripts\Map.cpp.obj -c C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\scripts\Map.cpp
+
+CMakeFiles/untitled.dir/scripts/Map.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/scripts/Map.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\scripts\Map.cpp > CMakeFiles\untitled.dir\scripts\Map.cpp.i
+
+CMakeFiles/untitled.dir/scripts/Map.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/scripts/Map.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\scripts\Map.cpp -o CMakeFiles\untitled.dir\scripts\Map.cpp.s
+
+CMakeFiles/untitled.dir/scripts/engine/Window.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/scripts/engine/Window.cpp.obj: CMakeFiles/untitled.dir/includes_CXX.rsp
+CMakeFiles/untitled.dir/scripts/engine/Window.cpp.obj: ../scripts/engine/Window.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/scripts/engine/Window.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\scripts\engine\Window.cpp.obj -c C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\scripts\engine\Window.cpp
+
+CMakeFiles/untitled.dir/scripts/engine/Window.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/scripts/engine/Window.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\scripts\engine\Window.cpp > CMakeFiles\untitled.dir\scripts\engine\Window.cpp.i
+
+CMakeFiles/untitled.dir/scripts/engine/Window.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/scripts/engine/Window.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\scripts\engine\Window.cpp -o CMakeFiles\untitled.dir\scripts\engine\Window.cpp.s
+
+CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.obj: CMakeFiles/untitled.dir/includes_CXX.rsp
+CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.obj: ../scripts/engine/VulkanSetup.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\scripts\engine\VulkanSetup.cpp.obj -c C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\scripts\engine\VulkanSetup.cpp
+
+CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\scripts\engine\VulkanSetup.cpp > CMakeFiles\untitled.dir\scripts\engine\VulkanSetup.cpp.i
+
+CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\scripts\engine\VulkanSetup.cpp -o CMakeFiles\untitled.dir\scripts\engine\VulkanSetup.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
-"CMakeFiles/untitled.dir/main.cpp.obj"
+"CMakeFiles/untitled.dir/main.cpp.obj" \
+"CMakeFiles/untitled.dir/scripts/Map.cpp.obj" \
+"CMakeFiles/untitled.dir/scripts/engine/Window.cpp.obj" \
+"CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
 
 untitled.exe: CMakeFiles/untitled.dir/main.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/scripts/Map.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/scripts/engine/Window.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: C:/Windows/System32/vulkan-1.dll
 untitled.exe: ../Libraries/glfw-3.3.2.bin.WIN64/lib-mingw-w64/libglfw3.a
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\jhoffis\CLionProjects\RacingmaybeCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

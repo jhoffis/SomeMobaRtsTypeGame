@@ -5,6 +5,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/main.cpp" "C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.obj"
+  "C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/scripts/Map.cpp" "C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/cmake-build-debug/CMakeFiles/untitled.dir/scripts/Map.cpp.obj"
+  "C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/scripts/engine/VulkanSetup.cpp" "C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/cmake-build-debug/CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.obj"
+  "C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/scripts/engine/Window.cpp" "C:/Users/jhoffis/CLionProjects/RacingmaybeCpp/cmake-build-debug/CMakeFiles/untitled.dir/scripts/engine/Window.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

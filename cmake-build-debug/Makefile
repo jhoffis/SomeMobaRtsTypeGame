@@ -149,6 +149,87 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+scripts/Map.obj: scripts/Map.cpp.obj
+
+.PHONY : scripts/Map.obj
+
+# target to build an object file
+scripts/Map.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/scripts/Map.cpp.obj
+.PHONY : scripts/Map.cpp.obj
+
+scripts/Map.i: scripts/Map.cpp.i
+
+.PHONY : scripts/Map.i
+
+# target to preprocess a source file
+scripts/Map.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/scripts/Map.cpp.i
+.PHONY : scripts/Map.cpp.i
+
+scripts/Map.s: scripts/Map.cpp.s
+
+.PHONY : scripts/Map.s
+
+# target to generate assembly for a file
+scripts/Map.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/scripts/Map.cpp.s
+.PHONY : scripts/Map.cpp.s
+
+scripts/engine/VulkanSetup.obj: scripts/engine/VulkanSetup.cpp.obj
+
+.PHONY : scripts/engine/VulkanSetup.obj
+
+# target to build an object file
+scripts/engine/VulkanSetup.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.obj
+.PHONY : scripts/engine/VulkanSetup.cpp.obj
+
+scripts/engine/VulkanSetup.i: scripts/engine/VulkanSetup.cpp.i
+
+.PHONY : scripts/engine/VulkanSetup.i
+
+# target to preprocess a source file
+scripts/engine/VulkanSetup.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.i
+.PHONY : scripts/engine/VulkanSetup.cpp.i
+
+scripts/engine/VulkanSetup.s: scripts/engine/VulkanSetup.cpp.s
+
+.PHONY : scripts/engine/VulkanSetup.s
+
+# target to generate assembly for a file
+scripts/engine/VulkanSetup.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/scripts/engine/VulkanSetup.cpp.s
+.PHONY : scripts/engine/VulkanSetup.cpp.s
+
+scripts/engine/Window.obj: scripts/engine/Window.cpp.obj
+
+.PHONY : scripts/engine/Window.obj
+
+# target to build an object file
+scripts/engine/Window.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/scripts/engine/Window.cpp.obj
+.PHONY : scripts/engine/Window.cpp.obj
+
+scripts/engine/Window.i: scripts/engine/Window.cpp.i
+
+.PHONY : scripts/engine/Window.i
+
+# target to preprocess a source file
+scripts/engine/Window.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/scripts/engine/Window.cpp.i
+.PHONY : scripts/engine/Window.cpp.i
+
+scripts/engine/Window.s: scripts/engine/Window.cpp.s
+
+.PHONY : scripts/engine/Window.s
+
+# target to generate assembly for a file
+scripts/engine/Window.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/scripts/engine/Window.cpp.s
+.PHONY : scripts/engine/Window.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,6 +242,15 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... scripts/Map.obj
+	@echo ... scripts/Map.i
+	@echo ... scripts/Map.s
+	@echo ... scripts/engine/VulkanSetup.obj
+	@echo ... scripts/engine/VulkanSetup.i
+	@echo ... scripts/engine/VulkanSetup.s
+	@echo ... scripts/engine/Window.obj
+	@echo ... scripts/engine/Window.i
+	@echo ... scripts/engine/Window.s
 .PHONY : help
 
 
